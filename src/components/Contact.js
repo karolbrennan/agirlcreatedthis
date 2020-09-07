@@ -6,7 +6,7 @@ function Contact(props) {
       <div className="row justify-center">
         <div className="col s12 text-center p-xlg">
           <h2>Contact</h2>
-          <p>Use the form below to email me, or </p>
+          <p>Use the form below to email me, or you can find me on Twitter <a href="https://twitter.com/itskarolbrennan" target="_blank" rel="noopener noreferrer">@itskarolbrennan</a></p>
           <form name="contact" method="post" netlify>
           <p>
             <label>Name: <input type="text" name="name"/></label>

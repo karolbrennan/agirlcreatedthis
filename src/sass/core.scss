@@ -91,9 +91,11 @@ form {
   }
 
   label {
+    display: block;
     font-size: 0.8rem;
     font-weight: bold;
     text-transform: uppercase;  
+    margin-bottom: 0.5rem;
   }
 
   button {
